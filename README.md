@@ -1,2 +1,0 @@
-# gaeilge
-Gaeilge Gan Stró!
