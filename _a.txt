@@ -47,7 +47,7 @@ Máirtín is ainm domsa. Cén t-ainm atá ortsa? (ortsa = to you)
 Michelle: Cén chaoi a bhfuil tú? Is mise Michelle - cén t-ainm atá ortsa?
  = How are you? I'm Michelle - what's your name?
  
-Eoin: Mice Eoin. = I'm Eoin.
+Eoin: Mise Eoin. = I'm Eoin.
 
 Michelle: Tá sé go deas bualadh leat, a Eoin. = It's nice to meet you Eoin.
 
@@ -70,6 +70,22 @@ Tá sé go deas bualadh leatsa freisin. = It's nice to meet you as well.
 (leat = leatsa = with you)
 
 (1.8)
+mé = I, me
+tú = you
+sé = he, it
+si = she, it
+
+muid = us, we
+sibh = you (plural)
+siad = they
+
+Tá mé go maith. = I'm well.
+Tá mé go breá. = I'm fine.
+
+(Exercise 1.1)
+
+
+
 
 
 
