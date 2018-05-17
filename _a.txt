@@ -35,7 +35,7 @@ Mise Siobhán = I'm Siobhán
 Máirtín is ainm dom. = My name is Máirtín. (dom = me)
 Sinéad is ainm dom. = My name is Sinéad.
 Peadar is ainm domsa. = My name is Peadar. (domsa = to me)
-Agus Bríd is ainm domsa. = My name is Bríd. 
+Agus Bríd is ainm domsa. = And my name is Bríd. 
 
 (1.6)
 Cén t-ainm atá ort? = What's your name (Connacht dialect)
@@ -84,6 +84,41 @@ Tá mé go maith. = I'm well.
 Tá mé go breá. = I'm fine.
 
 (Exercise 1.1)
+Michelle: How are you? I'm Michelle - what's your name?
+Michelle: Cén chaoi a bhfuil tú? Is mise Michelle. Cén t-ainm atá ortsa?
+
+Eoin: Mise Eoin.
+
+Michelle: It's nice to meet you Eoin.
+Michelle: Tá sé go deas bualadh leat, a Eoin.
+
+(Exercise 1.2)
+Áine: Hello, Liam.
+Áine: Dia duit, Lian.
+
+Liam: Dia is Muire duit, a Áine. Cén chaoi bhfuil tú na laethanta soe?
+
+Áine: I'm well, thank you. And yourself?
+Áine: Tá mé go breá, go raibh maith again. Agus tú féin?
+
+Liam: Tá mé go breá. Tá sé go deas tú a fheiceáil arís! (fheiceáil = to see)
+
+(Exercise 1.3)
+(1.9)
+1 - a haon
+2 - a dó
+3 - a tri
+4 - a ceathair
+5 - a cúig
+6 - a sé
+7 - a seacht
+8 - a hocht
+9 - a naoi
+10 - a deich
+
+(1.10)
+
+
 
 
 
