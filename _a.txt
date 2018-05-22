@@ -134,13 +134,43 @@ Caitlín: Agus seo iad Stiofán agus Peadar. = And this is Stiofán and Peadar.
 Nóra: Cén chaoi a bhfuil sibh? = How are you?
 
 (Conversation 1D)
-Séamas: Slán leat, a Siobhán. Beidh mé ag caint leat amárach. 
-= Goodbye Siobhán. I'll be talking to you tomorrow.
+Séamas: Slán leat, a Shiobhán. Beidh mé ag caint leat amárach. 
+= Goodbye, Siobhán. I'll be talking to you tomorrow.
+Siobhán: Slán agat, a Shéamais, agus go raibh maith agat arís. 
+= Goodbye, Séamas, and thanks again.
+Séamas: Slán leat, a Mháire. Slán abhaile. = Goodbye Máire. Safe home.
+Máire: Slán agat, a Shéamais. Feicfidh mé amárach tú.
+= Goodbye Séamas. I'll see you tomorrow.
 
+(1.12)
+The vocative case:
+a Shéamais  = Séamas
+a Shiobhán = Siobhán
+a Mháire = Máire
 
+(1.13)
+Cén chaoi a bhfuil sibh? = How are you. (plural)
+Cén chaoi a bhfuil tú? = How are you.
 
+(Exercise 1.4)
+Say: Seo é Barry. = This is Barry.
+Barry: Tá sé go deas bualadh leat, a Nóra.
+Say: Seo í Laura.  = This is Laura.
+Nóra: Cén chaoi a bhfuil tú?
+Say: Agus seo iad Stiofán anus Peadar. = And this is Stiofán and Peadar.
+Nóra: Cén chaoi a bhfuil sibh?
 
+(Exercise 1.5)
+Say: Slán leat, a Shiobhán. Beidh mé ag caint leat amárach.
+= Goodbye, Siobhán. I'll be talking to you tomorrow.
+Siobhán: Slán agat, a Shéamais, agus go raibh maith agat arís.
+Say: Slán agat, Mháire. Slán abhaile. = Goodbye Máire. Safe home.
+Máire: Slán agat, a Shéamais. Feicfidh mé amárach tú.
 
+(Exercise 1.6)
+1. Údarás na Galtachta: (91) 503 100
+2. Gealchultúr: (01) 484 5220
+3. Oideas Gael: (074)
 
 
 
