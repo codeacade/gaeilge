@@ -81,7 +81,7 @@ sibh = you (plural)
 siad = they
 
 Tá mé go maith. = I'm well.
-Tá mé go breá. = I'm fine.
+Tá sé go breá. = I'm fine.
 
 (Exercise 1.1)
 Michelle: How are you? I'm Michelle - what's your name?
@@ -96,7 +96,7 @@ Michelle: Tá sé go deas bualadh leat, a Eoin.
 Áine: Hello, Liam.
 Áine: Dia duit, Lian.
 
-Liam: Dia is Muire duit, a Áine. Cén chaoi bhfuil tú na laethanta soe?
+Liam: Dia is Muire duit, a Áine. Cén chaoi bhfuil tú na laethanta seo?
 
 Áine: I'm well, thank you. And yourself?
 Áine: Tá mé go breá, go raibh maith again. Agus tú féin?
