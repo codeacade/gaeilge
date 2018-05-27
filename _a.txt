@@ -125,6 +125,9 @@ Seo iad Máirtín agus Aoife = This is Máirtín and Aoife
 Éanna: Slán leat, a Éilís. Feicfidh mé amárach tú. = Goodbye Éilís. I'll see you tomorrow.
 Éilís: Slán agat, a Éanna. Tóg go bog é! = Goodbye Éanna. Take it easy!
 
+Éanna: Slán leat, a Éilís. Feicfidh mé amárach tú. = Goodbye Éilís. I'll see you tomorrow.
+Éilís: Slán go fóill, a Éanna. Tóg go bog é. = Goodbye Éanna. Take it easy!
+
 (Conversation 1C)
 Caitlín: Seo é Barry. = This is Barry.
 Barry: Tá sé go deas bualadh leat, a Nóra. = It's nice to meet you Nóra.
@@ -170,7 +173,33 @@ Máire: Slán agat, a Shéamais. Feicfidh mé amárach tú.
 (Exercise 1.6)
 1. Údarás na Galtachta: (91) 503 100
 2. Gealchultúr: (01) 484 5220
-3. Oideas Gael: (074)
+3. Oideas Gael: (074)973 0248
+4. Foras na Gaeilge: (028) 9089 9070
+5. Glór na nGael: (046) 943 0974
+
+(Talking Heads)
+Fionnuala Crocker: Cad é mar atá tú? Is mise Fionnuala Crocker.
+
+Colm Mac Séalaigh: Cén chaoi a bhfuil tú? Colm is ainm domsa.
+
+Páidí Ó Lionáird: Conas atá tú? Páidí Ó Lionáird is ainm domsa.
+
+(Exercise 1.7)
+1. Hello(formal) = Dia duit.
+2. How are you (Connacht dialect)? = Cén chaoi a bhfuil tú?
+3. I'm well = Tá me go maith.
+4. I'm Sharon = Is mise Sharon.
+5. My name is Máirtín = Máirtín is ainm dom.
+6. My name is Bríd = Bríd is ainm domsa.
+7. What's your name? = Cén t-ainm atá ort? (1.6)
+8. It is nice to meet you, Eoin = Tá sé go deas bualadh leat, a Eoin.
+9. It is nice to meet you as well = Tá sé go deas bualadh leatsa freisin. (1.7)
+10. Goodbye (said to the person leaving) = Slán leat.
+11. Goodbye (said to the person staying) = Slán agat.
+12. Goodbye for now = Slán go fóill (1.11)
+ 
+
+
 
 
 
