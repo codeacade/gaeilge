@@ -13,13 +13,13 @@ muid (slender d) = we, us
 siad (broad d) = they
 
 
-(1.1) 
+(((1.1) 
 Dia duit = Hello (literally, God to_you)
 Dia is Muire duit = Hello (literally, God and Mary to_you)
 Dia daoibh = Hello (literally, God to_yous {plural})
 
 
-(1.2)
+(((1.2)
 Cén chaoi a bhfuil tú? = How are you? (chaoi/caoi = way)(cén chaoi = how)
 (fuil= dependant form of tá=to_be, used IN QUESTIONS)
 
@@ -28,69 +28,73 @@ Cad é mar atá tú? = How are you? (Ulster dialect) (mar = way, so, as)
 Conas atá tú? = How are you? (Munster dialect)
 
 
-(1.3)
+(((1.3)
 Tá mé go maith. = I'm well
 Tá mé go breá. = I'm fine
 
-(1.4)
+(((1.4)
 Is mise Sharon. = I'm Sharon.
 Is mise Dónall. = I'm Dónall.
 Mise Siobhán = I'm Siobhán
 
-ag
-(1.5)
-Máirtín is ainm dom. = My name is Máirtín. (dom = to_me)
-Sinéad is ainm dom. = My name is Sinéad.
-Peadar is ainm domsa. = My name is Peadar. (domsa = to_ME)
-Agus Bríd is ainm domsa. = And my name is Bríd. 
+
+(((1.5)
+Máirtín is ainm dom. = Máirtín is name of_mine. (dom = to_me)
+Sinéad is ainm dom. = Sinéad is name of_mine.
+Peadar is ainm domsa. = Peadar is name of_mine. (domsa = to_ME)
+Agus Bríd is ainm domsa. = And Bríd is name of_mine. 
 
 
-(1.6)
-Cén t-ainm atá ort? = What's your name (Connacht dialect)
+(((1.6)
+Cén t-ainm atá ort? = What name is on_you? (Connacht dialect)
 /Ken tanm atort?/ (ort = on_you)
-Cad is ainm duit? = What's your name (Munster dialect)
-/Kad ys anm dycz?/ (duit = to_you)
-C'ainm atá ort? = What's your name (Ulster dialect)
+
+Cad is ainm duit? = What is name to_you? (Munster dialect)
+/Kad es anm dyth?/ (duit = to_you)
+
+C'ainm atá ort? = What_name is on_you? (Ulster dialect)
 /Kanim atort?/
 
-Máirtín is ainm domsa. Cén t-ainm atá ortsa? (ortsa = to you)
+Máirtín is ainm domsa. Cén t-ainm atá ortsa? (ortsa = on_YOU)
 
 
-(Conversation 1A)
+(((Conversation 1A)
 Michelle: Cén chaoi a bhfuil tú? Is mise Michelle - cén t-ainm atá ortsa?
- = How are you? I'm Michelle - what's your name?
+ = How are you? I'm Michelle - what's YOUR name?
  
 Eoin: Mise Eoin. = I'm Eoin.
 
-Michelle: Tá sé go deas bualadh leat, a Eoin. = It's nice to meet you Eoin.
+Michelle: Tá sé go deas bualadh leat, a Eoin. = It's nice to meet with_you Eoin.
+(leat = with_you)
 
 
-(Conversation 1B)
+(((Conversation 1B)
 Áine: Dia duit, a Liam. = Hello Liam.
 
 Liam: Dia is Muire duit, a Áine. Cén chaoi a bhfuil tú na laethanta seo? 
-/.... lechynta sia/
-= Hello Áine. How are you these days? (lea = day, laethanta = days)
+/.... lehynta sio/ (seo = anseo = here <> sin = ansin = there)
+= Hello Áine. How are you these days? (lae = day, laethanta = days)
 
 Áine: Tá mé go maith, go raibh maith agat. Agus tú féin?
-= I'm well, thank you. And yourself? (tú=you, féin=self)
+= I'm well, thank you. And yourself? (maith = good, tú=you, féin=self)
+( mé féin = myself )
 
 Liam: Tá mé go breá. Tá sé go deas tú a fheiceáil arís!
 =I'm fine. It's nice to see you again (feic = to see, f(h)eiceáil = seen)
 
 
-(1.7)
+(((1.7)
 Tá sé go deas bualadh leat, a Eoin. = It's nice to meet you Eoin.
 
 Tá sé go deas bualadh leatsa freisin. = It's nice to meet you as well.
-(leat = leatsa = with you)
+(leat = leatsa = with_you, freisin = too, also)
 
 
-(1.8)
+(((1.8)
 mé = I, me
 tú = you
-sé = he, it
-si = she, it
+sé (é) = he, it
+si (í) = she, it
 
 muid = us, we
 sibh = you (plural)
@@ -100,7 +104,7 @@ Tá mé go maith. = I'm well.
 Tá sé go breá. = I'm fine.
 
 
-(Exercise 1.1)
+(((Exercise 1.1)
 Michelle: How are you? I'm Michelle - what's your name?
 Michelle: Cén chaoi a bhfuil tú? Is mise Michelle. Cén t-ainm atá ortsa?
 
@@ -110,20 +114,20 @@ Michelle: It's nice to meet you Eoin.
 Michelle: Tá sé go deas bualadh leat, a Eoin.
 
 
-(Exercise 1.2)
+(((Exercise 1.2)
 Áine: Hello, Liam.
-Áine: Dia duit, Lian.
+Áine: Dia duit, Liam.
 
 Liam: Dia is Muire duit, a Áine. Cén chaoi bhfuil tú na laethanta seo?
 
 Áine: I'm well, thank you. And yourself?
 Áine: Tá mé go breá, go raibh maith again. Agus tú féin?
 
-Liam: Tá mé go breá. Tá sé go deas tú a fheiceáil arís! (fheiceáil = to see)
+Liam: Tá mé go breá. Tá sé go deas tú a fheiceáil arís!
+(fheic = to see, f(h)eiceáil = seen)
 
-
-(Exercise 1.3)
-(1.9)
+(((Exercise 1.3)
+(((1.9)
 1 - a haon
 2 - a dó
 3 - a tri
@@ -136,52 +140,67 @@ Liam: Tá mé go breá. Tá sé go deas tú a fheiceáil arís! (fheiceáil = to see)
 10 - a deich
 
 
-(1.10)
+(((1.10)
 Seo é Micheál = This is Micheál
 Seo í Bríd = This is Bríd
 Seo iad Máirtín agus Aoife = This is Máirtín and Aoife
 
 
-(1.11)
-Éanna: Slán leat, a Éilís. Feicfidh mé amárach tú. = Goodbye Éilís. I'll see you tomorrow.
-Éilís: Slán agat, a Éanna. Tóg go bog é! = Goodbye Éanna. Take it easy!
-(tóg=climb, go_bóg=soft,easy, é=it)
+(((1.11)
+Éanna: Slán leat, a Éilís. Feicfidh mé amárach tú. = Goodbye Éilís. I'll see you tomorrow. (feicfidh = see+will, amárach = tomorrow)
 
-Éanna: Slán leat, a Éilís. Feicfidh mé amárach tú. = Goodbye Éilís. I'll see you tomorrow.
+Éilís: Slán agat, a Éanna. Tóg go bog é! = Goodbye Éanna. Take it easy!
+(tóg=climb, go_bóg=soft,easy, é=it,he)
+
+Éanna: Slán leat, a Éilís. Feicfidh mé amárach tú. = Goodbye Éilís. I'll see you tomorrow. (leat = with_you)
+
 Éilís: Slán go fóill, a Éanna. Tóg go bog é. = Goodbye Éanna. Take it easy!
 (fóill=for_now)
 
-(Conversation 1C)
+
+
+(((Conversation 1C)
 Caitlín: Seo é Barry. = This is Barry.
 Barry: Tá sé go deas bualadh leat, a Nóra. = It's nice to meet you Nóra.
+/... Jest to(on) milo spotkac z_toba .../
+
 Caitlín: Seo í Laura. = This is Laura.
 Nóra: Cén chaoi a bhfuil tú? = How are you?
-Caitlín: Agus seo iad Stiofán agus Peadar. = And this is Stiofán and Peadar.
-Nóra: Cén chaoi a bhfuil sibh? = How are you?
 
-(Conversation 1D)
+Caitlín: Agus seo iad Stiofán agus Peadar. = And this is Stiofán and Peadar.
+Nóra: Cén chaoi a bhfuil sibh? = How are you (plural)?
+
+
+
+(((Conversation 1D)
 Séamas: Slán leat, a Shiobhán. Beidh mé ag caint leat amárach. 
+/....Be me kancz lath amarah./ (beidth = will {..dth = future}
 = Goodbye, Siobhán. I'll be talking to you tomorrow.
+(caint = talk, speak to; AG_caint = talkING)
+
 Siobhán: Slán agat, a Shéamais, agus go raibh maith agat arís. 
 = Goodbye, Séamas, and thanks again.
+
 Séamas: Slán leat, a Mháire. Slán abhaile. = Goodbye Máire. Safe home.
+(abhaile = home = baile = town)
+
 Máire: Slán agat, a Shéamais. Feicfidh mé amárach tú.
 = Goodbye Séamas. I'll see you tomorrow.
 
 
-(1.12)
+(((1.12)
 The vocative case:
 a Shéamais  = Séamas
 a Shiobhán = Siobhán
 a Mháire = Máire
 
 
-(1.13)
+(((1.13)
 Cén chaoi a bhfuil sibh? = How are you. (plural)
 Cén chaoi a bhfuil tú? = How are you.
 
 
-(Exercise 1.4)
+(((Exercise 1.4)
 Say: Seo é Barry. = This is Barry.
 Barry: Tá sé go deas bualadh leat, a Nóra.
 Say: Seo í Laura.  = This is Laura.
@@ -190,7 +209,7 @@ Say: Agus seo iad Stiofán anus Peadar. = And this is Stiofán and Peadar.
 Nóra: Cén chaoi a bhfuil sibh?
 
 
-(Exercise 1.5)
+(((Exercise 1.5)
 Say: Slán leat, a Shiobhán. Beidh mé ag caint leat amárach.
 = Goodbye, Siobhán. I'll be talking to you tomorrow.
 Siobhán: Slán agat, a Shéamais, agus go raibh maith agat arís.
@@ -198,7 +217,7 @@ Say: Slán agat, Mháire. Slán abhaile. = Goodbye Máire. Safe home.
 Máire: Slán agat, a Shéamais. Feicfidh mé amárach tú.
 
 
-(Exercise 1.6)
+(((Exercise 1.6)
 1. Údarás na Galtachta: (91) 503 100
 2. Gealchultúr: (01) 484 5220
 3. Oideas Gael: (074)973 0248
@@ -213,7 +232,7 @@ Colm Mac Séalaigh: Cén chaoi a bhfuil tú? Colm is ainm domsa.
 Páidí Ó Lionáird: Conas atá tú? Páidí Ó Lionáird is ainm domsa.
 
 
-(Exercise 1.7)
+(((Exercise 1.7)
 1. Hello(formal) = Dia duit.
 2. How are you (Connacht dialect)? = Cén chaoi a bhfuil tú?
 3. I'm well = Tá me go maith.
